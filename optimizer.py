@@ -42,7 +42,7 @@ if __name__ == "__main__":
     players = []
     highLineup = {"PG": "", "SG": "", "SF": "", "PF": "", "C": "", "G": "", "F": "", "UTIL": ""}
 
-    for x in range(1,100):
+    for x in range(1,332):
         name = worksheet.cell(x,0).value
         projection = worksheet.cell(x,7).value
         positions = worksheet.cell(x,8).value
@@ -50,6 +50,13 @@ if __name__ == "__main__":
         players.append(Player(name, positions, price, projection))
 
     highestProjection = 0
+    tempPlayers = []
+
+    for x in range(0,331):
+        if players[x].projection != 0.0:
+            tempPlayers.append(players[x])
+
+    players = tempPlayers
 
     for PG in players:
         print(PG)
@@ -60,16 +67,20 @@ if __name__ == "__main__":
                 if("SG" not in SG.positions or SF is PG or SF is SG):
                     break
                 for PF in players:
-                    if("SF" not in SF.positions or PF is PG or PF is SG or PF is SF):
+                    pfPrice = PG.price + SG.price + SF.price + PF.price
+                    if("SF" not in SF.positions or PF is PG or PF is SG or PF is SF or pfPrice > 50000):
                         break
                     for C in players:
-                        if("PF" not in PF.positions or C is PG or C is SG or C is SF or C is PF):
+                        cPrice = PG.price + SG.price + SF.price + PF.price + C.price
+                        if("PF" not in PF.positions or C is PG or C is SG or C is SF or C is PF or cPrice > 50000):
                             break
                         for G in players:
-                            if("C" not in C.positions or G is PG or G is SG or G is SF or G is PF or G is C):
+                            gPrice = PG.price + SG.price + SF.price + PF.price + C.price + G.price
+                            if("C" not in C.positions or G is PG or G is SG or G is SF or G is PF or G is C or gPrice > 50000):
                                 break
                             for F in players:
-                                if("G" not in G.positions or F is PG or F is SG or F is SF or F is PF or F is C or F is G):
+                                fPrice = PG.price + SG.price + SF.price + PF.price + C.price + G.price + F.price
+                                if("G" not in G.positions or F is PG or F is SG or F is SF or F is PF or F is C or F is G or fPrice > 50000):
                                     break
                                 for UTIL in players:
                                     price = PG.price + SG.price + SF.price + PF.price + C.price + G.price + F.price + UTIL.price
@@ -81,6 +92,6 @@ if __name__ == "__main__":
                                     #print(newLineup)
                                     if(proj > highestProjection):
                                         highestProjection = proj
-                                        highLineup = {"PG": "", "SG": "", "SF": "", "PF": "", "C": "", "G": "", "F": "", "UTIL": ""}
+                                        highLineup = newLineup
 
     print(highLineup)
