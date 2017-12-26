@@ -1,0 +1,171 @@
+PG,SG,SF,PF,C,G,F,UTIL,,Instructions,,,,,,,
+Jeff Teague (10005424),Kentavious Caldwell-Pope (10005466),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Klay Thompson (10005404),Paul George (10005395),Dario Saric (10005412),,1. Locate the player you want to select in the list below ,,,,,,,
+Frank Ntilikina (10005579),Kentavious Caldwell-Pope (10005466),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Paul George (10005395),Doug McDermott (10005614),,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,
+Jeff Teague (10005424),Marcus Smart (10005491),Paul George (10005395),Carmelo Anthony (10005449),Julius Randle (10005487),Kentavious Caldwell-Pope (10005466),Andrew Wiggins (10005439),Russell Westbrook (10005340),,3. Paste the ID into the roster position desired ,,,,,,,
+Frank Ntilikina (10005579),Kentavious Caldwell-Pope (10005466),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Paul George (10005395),Jae Crowder (10005653),,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,
+Frank Ntilikina (10005579),Kentavious Caldwell-Pope (10005466),Carmelo Anthony (10005449),Julius Randle (10005487),Dario Saric (10005412),Klay Thompson (10005404),Paul George (10005395),Russell Westbrook (10005340),,5. You can create up to 500 lineups per file ,,,,,,,
+Russell Westbrook (10005340),Marcus Smart (10005491),Paul George (10005395),Carmelo Anthony (10005449),Julius Randle (10005487),Kentavious Caldwell-Pope (10005466),Jayson Tatum (10005453),Klay Thompson (10005404),,,,,,,,,
+Jeff Teague (10005424),Marcus Smart (10005491),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Klay Thompson (10005404),Paul George (10005395),Dario Saric (10005412),,Position,Name + ID,Name,ID,Roster Position,Salary,GameInfo,TeamAbbrev 
+Frank Ntilikina (10005579),Klay Thompson (10005404),Paul George (10005395),Carmelo Anthony (10005449),Julius Randle (10005487),Jeff Teague (10005424),Jayson Tatum (10005453),Russell Westbrook (10005340),,PG/SG,James Harden (10005332),James Harden,10005332,PG,11100,HOU@OKC 12/25/2017 08:00PM ET,HOU
+Frank Ntilikina (10005579),Marcus Smart (10005491),Carmelo Anthony (10005449),Daniel Theis (10005663),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Andrew Wiggins (10005439),Paul George (10005395),,SF/PF,LeBron James (10005336),LeBron James,10005336,SF,11000,CLE@GS 12/25/2017 03:00PM ET,CLE
+Jeff Teague (10005424),Marcus Smart (10005491),Carmelo Anthony (10005449),Dario Saric (10005412),Karl-Anthony Towns (10005362),Kentavious Caldwell-Pope (10005466),Paul George (10005395),Klay Thompson (10005404),,PG,Russell Westbrook (10005340),Russell Westbrook,10005340,PG,10900,HOU@OKC 12/25/2017 08:00PM ET,OKC
+Jeff Teague (10005424),Klay Thompson (10005404),Carmelo Anthony (10005449),Jae Crowder (10005653),Julius Randle (10005487),Russell Westbrook (10005340),Andrew Wiggins (10005439),Paul George (10005395),,SF/PF,Kevin Durant (10005343),Kevin Durant,10005343,SF,10500,CLE@GS 12/25/2017 03:00PM ET,GS
+Dwyane Wade (10005479),Klay Thompson (10005404),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Jeff Teague (10005424),Paul George (10005395),Dario Saric (10005412),,C,Joel Embiid (10005347),Joel Embiid,10005347,C,9500,PHI@NY 12/25/2017 12:00PM ET,PHI
+Frank Ntilikina (10005579),Marcus Smart (10005491),Carmelo Anthony (10005449),Gorgui Dieng (10005671),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Andrew Wiggins (10005439),Paul George (10005395),,PG/SF,Ben Simmons (10005349),Ben Simmons,10005349,PG,9300,PHI@NY 12/25/2017 12:00PM ET,PHI
+Dwyane Wade (10005479),Kentavious Caldwell-Pope (10005466),Carmelo Anthony (10005449),Dario Saric (10005412),Karl-Anthony Towns (10005362),Jeff Teague (10005424),Paul George (10005395),Klay Thompson (10005404),,PG/SG,Stephen Curry (10005354),Stephen Curry,10005354,PG,9100,CLE@GS 12/25/2017 03:00PM ET,GS
+Jeff Teague (10005424),Marcus Smart (10005491),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Kentavious Caldwell-Pope (10005466),Doug McDermott (10005614),Russell Westbrook (10005340),,PG/SG,Chris Paul (10005358),Chris Paul,10005358,PG,9000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+Jeff Teague (10005424),Marcus Smart (10005491),Paul George (10005395),Carmelo Anthony (10005449),Julius Randle (10005487),Russell Westbrook (10005340),Andrew Wiggins (10005439),Jaylen Brown (10005461),,C,Karl-Anthony Towns (10005362),Karl-Anthony Towns,10005362,C,8900,MIN@LAL 12/25/2017 10:30PM ET,MIN
+Frank Ntilikina (10005579),Marcus Smart (10005491),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Kentavious Caldwell-Pope (10005466),Andrew Wiggins (10005439),Russell Westbrook (10005340),,PF/C,Kristaps Porzingis (10005364),Kristaps Porzingis,10005364,PF,8600,PHI@NY 12/25/2017 12:00PM ET,NY
+Frank Ntilikina (10005579),Marcus Smart (10005491),Carmelo Anthony (10005449),Julius Randle (10005487),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Paul George (10005395),Doug McDermott (10005614),,SG,Jimmy Butler (10005368),Jimmy Butler,10005368,SG,8400,MIN@LAL 12/25/2017 10:30PM ET,MIN
+Jeff Teague (10005424),Marcus Smart (10005491),Carmelo Anthony (10005449),Julius Randle (10005487),Dario Saric (10005412),Russell Westbrook (10005340),Paul George (10005395),Jordan Clarkson (10005511),,PG,Kyrie Irving (10005371),Kyrie Irving,10005371,PG,8300,WAS@BOS 12/25/2017 05:30PM ET,BOS
+Jeff Teague (10005424),Marcus Smart (10005491),Carmelo Anthony (10005449),Jae Crowder (10005653),Karl-Anthony Towns (10005362),Russell Westbrook (10005340),Paul George (10005395),Daniel Theis (10005663),,PG,John Wall (10005374),John Wall,10005374,PG,8000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF/C,Kevin Love (10005377),Kevin Love,10005377,PF,7500,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SF/PF,Kyle Kuzma (10005381),Kyle Kuzma,10005381,SF,7300,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Draymond Green (10005385),Draymond Green,10005385,PF,7200,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG,Bradley Beal (10005389),Bradley Beal,10005389,SG,7000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PG,Lonzo Ball (10005392),Lonzo Ball,10005392,PG,6900,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,SF,Paul George (10005395),Paul George,10005395,SF,6800,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PF/C,Al Horford (10005398),Al Horford,10005398,PF,6700,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,C,Clint Capela (10005402),Clint Capela,10005402,C,6600,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,SG,Klay Thompson (10005404),Klay Thompson,10005404,SG,6400,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG/SF,Brandon Ingram (10005407),Brandon Ingram,10005407,SG,6300,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Dario Saric (10005412),Dario Saric,10005412,PF,6200,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SF/PF,Robert Covington (10005416),Robert Covington,10005416,SF,6100,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PF/C,Enes Kanter (10005420),Enes Kanter,10005420,PF,6100,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PG,Jeff Teague (10005424),Jeff Teague,10005424,PG,6000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,PG,Isaiah Thomas (10005427),Isaiah Thomas,10005427,PG,6000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SG/SF,Tim Hardaway Jr. (10005430),Tim Hardaway Jr.,10005430,SG,5900,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PF/C,Taj Gibson (10005435),Taj Gibson,10005435,PF,5800,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SG/SF,Andrew Wiggins (10005439),Andrew Wiggins,10005439,SG,5700,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SG,Eric Gordon (10005446),Eric Gordon,10005446,SG,5600,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,SF/PF,Carmelo Anthony (10005449),Carmelo Anthony,10005449,SF,5600,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,C,Steven Adams (10005444),Steven Adams,10005444,C,5500,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SF/PF,Jayson Tatum (10005453),Jayson Tatum,10005453,SF,5400,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SF/PF,Otto Porter Jr. (10005457),Otto Porter Jr.,10005457,SF,5300,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,SG/SF,Jaylen Brown (10005461),Jaylen Brown,10005461,SG,5200,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SG,Kentavious Caldwell-Pope (10005466),Kentavious Caldwell-Pope,10005466,SG,5100,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Julius Randle (10005487),Julius Randle,10005487,PF,5000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,SG/SF,JJ Redick (10005469),JJ Redick,10005469,SG,5000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SF/PF,Michael Beasley (10005483),Michael Beasley,10005483,SF,5000,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SG/SF,Trevor Ariza (10005474),Trevor Ariza,10005474,SG,5000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PG/SG,Dwyane Wade (10005479),Dwyane Wade,10005479,PG,5000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,C,Marcin Gortat (10005496),Marcin Gortat,10005496,C,4900,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF/C,Jordan Bell (10005503),Jordan Bell,10005503,PF,4900,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG/SF,Marcus Smart (10005491),Marcus Smart,10005491,SG,4800,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SG/SF,Courtney Lee (10005498),Courtney Lee,10005498,SG,4800,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PG/SG,Jordan Clarkson (10005511),Jordan Clarkson,10005511,PG,4700,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,SF/PF,P.J. Tucker (10005507),P.J. Tucker,10005507,SF,4700,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,SF/PF,Marcus Morris (10005519),Marcus Morris,10005519,SF,4600,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,PG,Jarrett Jack (10005523),Jarrett Jack,10005523,PG,4600,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PF/C,Ryan Anderson (10005515),Ryan Anderson,10005515,PF,4600,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PF,Mike Scott (10005526),Mike Scott,10005526,PF,4500,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,SG/SF,Kelly Oubre Jr. (10005529),Kelly Oubre Jr.,10005529,SG,4500,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,SF/PF,Larry Nance Jr. (10005538),Larry Nance Jr.,10005538,SF,4500,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Richaun Holmes (10005534),Richaun Holmes,10005534,PF,4500,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SF/PF,Markieff Morris (10005542),Markieff Morris,10005542,SF,4400,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,C,Brook Lopez (10005546),Brook Lopez,10005546,C,4400,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,SF/PF,Omri Casspi (10005548),Omri Casspi,10005548,SF,4300,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,PF/C,Trevor Booker (10005552),Trevor Booker,10005552,PF,4200,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PG/SG,Terry Rozier (10005556),Terry Rozier,10005556,PG,4100,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SF/PF,Jeff Green (10005560),Jeff Green,10005560,SF,4100,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PG,T.J. McConnell (10005564),T.J. McConnell,10005564,PG,4000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SG/SF,J.R. Smith (10005567),J.R. Smith,10005567,SG,4000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SG,Jamal Crawford (10005572),Jamal Crawford,10005572,SG,3900,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,PF/C,Kyle O'Quinn (10005575),Kyle O'Quinn,10005575,PF,3900,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PG/SG,Frank Ntilikina (10005579),Frank Ntilikina,10005579,PG,3900,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SG/SF,Andre Iguodala (10005583),Andre Iguodala,10005583,SG,3900,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,PG/SG,Jerryd Bayless (10005593),Jerryd Bayless,10005593,PG,3800,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PG/SG,Markelle Fultz (10005597),Markelle Fultz,10005597,PG,3800,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,C,Nene Hilario (10005591),Nene Hilario,10005591,C,3800,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PG,Jose Calderon (10005588),Jose Calderon,10005588,PG,3800,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PG/SG,Tomas Satoransky (10005601),Tomas Satoransky,10005601,PG,3700,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PG,Tim Frazier (10005605),Tim Frazier,10005605,PG,3700,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,C,Aron Baynes (10005608),Aron Baynes,10005608,C,3700,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,PG/SG,Josh Hart (10005627),Josh Hart,10005627,PG,3700,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Amir Johnson (10005610),Amir Johnson,10005610,PF,3700,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SF/PF,Doug McDermott (10005614),Doug McDermott,10005614,SF,3700,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SF/PF,Jerami Grant (10005618),Jerami Grant,10005618,SF,3700,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PG/SF,Patrick McCaw (10005622),Patrick McCaw,10005622,PG,3700,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,PG/SG,Shaun Livingston (10005631),Shaun Livingston,10005631,PG,3600,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG/SF,Kyle Korver (10005635),Kyle Korver,10005635,SG,3600,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SG/SF,Corey Brewer (10005640),Corey Brewer,10005640,SG,3500,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Guillermo Hernangomez (10005645),Guillermo Hernangomez,10005645,PF,3500,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PF/C,David West (10005649),David West,10005649,PF,3500,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SF/PF,Jae Crowder (10005653),Jae Crowder,10005653,SF,3500,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PF/C,Tristan Thompson (10005657),Tristan Thompson,10005657,PF,3500,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,C,Ian Mahinmi (10005661),Ian Mahinmi,10005661,C,3400,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF/C,Daniel Theis (10005663),Daniel Theis,10005663,PF,3400,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,PG/SG,Tyus Jones (10005667),Tyus Jones,10005667,PG,3400,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,PF/C,Gorgui Dieng (10005671),Gorgui Dieng,10005671,PF,3400,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SG/SF,Damyean Dotson (10005675),Damyean Dotson,10005675,SG,3400,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SG/SF,Andre Roberson (10005680),Andre Roberson,10005680,SG,3400,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SF/PF,Kevon Looney (10005685),Kevon Looney,10005685,SF,3400,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,PG/SG,Iman Shumpert (10005689),Iman Shumpert,10005689,PG,3400,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PG,Derrick Rose (10005693),Derrick Rose,10005693,PG,3400,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PG,Shane Larkin (10005704),Shane Larkin,10005704,PG,3300,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SF/PF,Nemanja Bjelica (10005707),Nemanja Bjelica,10005707,SF,3300,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SG/SF,Shabazz Muhammad (10005711),Shabazz Muhammad,10005711,SG,3300,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SF/PF,Lance Thomas (10005696),Lance Thomas,10005696,SF,3300,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SG/SF,Timothe Luwawu-Cabarrot (10005716),Timothe Luwawu-Cabarrot,10005716,SG,3300,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PG/SG,Ron Baker (10005721),Ron Baker,10005721,PG,3300,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,SG/SF,Alex Abrines (10005725),Alex Abrines,10005725,SG,3300,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PF/C,Channing Frye (10005700),Channing Frye,10005700,PF,3300,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,C,Zaza Pachulia (10005730),Zaza Pachulia,10005730,C,3300,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG,Nick Young (10005732),Nick Young,10005732,SG,3300,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG/SF,Semi Ojeleye (10005735),Semi Ojeleye,10005735,SG,3200,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,C,Ivica Zubac (10005740),Ivica Zubac,10005740,C,3200,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PF/C,Patrick Patterson (10005742),Patrick Patterson,10005742,PF,3200,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SF/PF,Luc Richard Mbah a Moute (10005746),Luc Richard Mbah a Moute,10005746,SF,3200,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,C,JaVale McGee (10005750),JaVale McGee,10005750,C,3200,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG,Jodie Meeks (10005752),Jodie Meeks,10005752,SG,3100,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PG,Ramon Sessions (10005755),Ramon Sessions,10005755,PG,3100,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PG/SG,Raymond Felton (10005758),Raymond Felton,10005758,PG,3100,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PG,Quinn Cook (10005762),Quinn Cook,10005762,PG,3100,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,SG,Sheldon Mac (10005765),Sheldon Mac,10005765,SG,3000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF/C,Chris McCullough (10005768),Chris McCullough,10005768,PF,3000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,SG,Devin Robinson (10005772),Devin Robinson,10005772,SG,3000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF/C,Jason Smith (10005775),Jason Smith,10005775,PF,3000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,PF,Mike Young (10005779),Mike Young,10005779,PF,3000,WAS@BOS 12/25/2017 05:30PM ET,WAS
+,,,,,,,,,SG,Jabari Bird (10005782),Jabari Bird,10005782,SG,3000,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,PF/C,Guerschon Yabusele (10005785),Guerschon Yabusele,10005785,PF,3000,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SG,Kadeem Allen (10005789),Kadeem Allen,10005789,SG,3000,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,PF,Abdel Nader (10005792),Abdel Nader,10005792,PF,3000,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SG/SF,Gordon Hayward (10005795),Gordon Hayward,10005795,SG,3000,WAS@BOS 12/25/2017 05:30PM ET,BOS
+,,,,,,,,,SG/SF,Anthony Brown (10005800),Anthony Brown,10005800,SG,3000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,C,Cole Aldrich (10005805),Cole Aldrich,10005805,C,3000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,SG/SF,Marcus Georges-Hunt (10005807),Marcus Georges-Hunt,10005807,SG,3000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,PG/SG,Aaron Brooks (10005812),Aaron Brooks,10005812,PG,3000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,C,Justin Patton (10005816),Justin Patton,10005816,C,3000,MIN@LAL 12/25/2017 10:30PM ET,MIN
+,,,,,,,,,PF/C,Thomas Bryant (10005818),Thomas Bryant,10005818,PF,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PG/SG,Vander Blue (10005822),Vander Blue,10005822,PG,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PG/SG,Tyler Ennis (10005826),Tyler Ennis,10005826,PG,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,SF/PF,Luol Deng (10005830),Luol Deng,10005830,SF,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,C,Andrew Bogut (10005834),Andrew Bogut,10005834,C,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PG/SG,Alex Caruso (10005836),Alex Caruso,10005836,PG,3000,MIN@LAL 12/25/2017 10:30PM ET,LAL
+,,,,,,,,,PG,Jacob Pullen (10005840),Jacob Pullen,10005840,PG,3000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SG/SF,Justin Anderson (10005843),Justin Anderson,10005843,SG,3000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PF,James Michael McAdoo (10005848),James Michael McAdoo,10005848,PF,3000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,SG/SF,Furkan Korkmaz (10005851),Furkan Korkmaz,10005851,SG,3000,PHI@NY 12/25/2017 12:00PM ET,PHI
+,,,,,,,,,PF,Luke Kornet (10005856),Luke Kornet,10005856,PF,3000,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,PF,Isaiah Hicks (10005859),Isaiah Hicks,10005859,PF,3000,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,C,Joakim Noah (10005862),Joakim Noah,10005862,C,3000,PHI@NY 12/25/2017 12:00PM ET,NY
+,,,,,,,,,C,Dakari Johnson (10005864),Dakari Johnson,10005864,C,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SF,Daniel Hamilton (10005866),Daniel Hamilton,10005866,SF,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PG/SG,PJ Dozier (10005869),PJ Dozier,10005869,PG,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SG/SF,Terrance Ferguson (10005873),Terrance Ferguson,10005873,SG,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SF/PF,Josh Huestis (10005878),Josh Huestis,10005878,SF,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,SG/SF,Kyle Singler (10005882),Kyle Singler,10005882,SG,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PF/C,Nick Collison (10005887),Nick Collison,10005887,PF,3000,HOU@OKC 12/25/2017 08:00PM ET,OKC
+,,,,,,,,,PG,Briante Weber (10005891),Briante Weber,10005891,PG,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PG,Bobby Brown (10005894),Bobby Brown,10005894,PG,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PG,Demetrius Jackson (10005897),Demetrius Jackson,10005897,PG,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PF/C,Tarik Black (10005900),Tarik Black,10005900,PF,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,SG,Troy Williams (10005904),Troy Williams,10005904,SG,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PF/C,Chinanu Onuaku (10005907),Chinanu Onuaku,10005907,PF,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PF/C,Zhou Qi (10005911),Zhou Qi,10005911,PF,3000,HOU@OKC 12/25/2017 08:00PM ET,HOU
+,,,,,,,,,PF,Chris Boucher (10005915),Chris Boucher,10005915,PF,3000,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,C,Damian Jones (10005918),Damian Jones,10005918,C,3000,CLE@GS 12/25/2017 03:00PM ET,GS
+,,,,,,,,,PG,London Perrantes (10005920),London Perrantes,10005920,PG,3000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SG/SF,John Holland (10005923),John Holland,10005923,SG,3000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,PF/C,Ante Zizic (10005928),Ante Zizic,10005928,PF,3000,CLE@GS 12/25/2017 03:00PM ET,CLE
+,,,,,,,,,SG/SF,Cedi Osman (10005932),Cedi Osman,10005932,SG,3000,CLE@GS 12/25/2017 03:00PM ET,CLE
